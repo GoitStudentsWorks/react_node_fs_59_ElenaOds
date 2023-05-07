@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ElenaOds.github.io/goose_track/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_59_ElenaOds/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@reduxjs/toolkit": "^1.9.5",
